@@ -1,0 +1,2 @@
+C:/Users/olive/OneDrive/Imagens/Documentos/Repositorios/Urplace-Flutter-App/android/app/.cxx/Debug/4r271yh4/x86/CMakeFiles/edit_cache.dir
+C:/Users/olive/OneDrive/Imagens/Documentos/Repositorios/Urplace-Flutter-App/android/app/.cxx/Debug/4r271yh4/x86/CMakeFiles/rebuild_cache.dir
